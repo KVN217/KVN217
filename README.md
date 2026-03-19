@@ -1,13 +1,14 @@
-## Heisann :wave:
+## 👋 Hello
 
-Mitt navn er Kevin Alexander Aslesen.
+I'm Kevin Aslesen, a Data Science graduate from UiO with a focus on statistical modeling and machine learning.
 
-## Teknologi og verktøy jeg har brukt :seedling:
-[![My Skills](https://skillicons.dev/icons?i=py,java,r,sklearn,postgresql,mysql,latex,html,js&theme=light)](https://skillicons.dev)
+## 🛠️ Tech & Tools
+[![My Skills](https://skillicons.dev/icons?i=py,r,java,sklearn,postgresql,mysql,latex,html,js&theme=light)](https://skillicons.dev)
 
-## Utdanning :mortar_board:
-* Master i Data Science, UiO (2023 - 2025) 
-* Bachelor i Fysikk, UiO  (2019 - 2023)
+## 💼 Work Experience
+* **Junior Data Scientist**, Annalect Norway (2025–present)  
+  - Working with data analysis and modeling for marketing insights
 
-
-
+## 🎓 Education
+* **MSc Data Science**, University of Oslo (2023–2025)
+* **BSc Physics and Astronomy**, University of Oslo (2019–2023)
