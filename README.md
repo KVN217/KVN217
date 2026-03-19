@@ -1,6 +1,6 @@
 ## 👋 Hello
 
-I'm Kevin Aslesen, a Data Science graduate from UiO with a focus on statistical modeling and machine learning.
+I'm Kevin, a Data Science graduate from UiO with a focus on statistical modeling and machine learning.
 
 ## 🛠️ Tech & Tools
 [![My Skills](https://skillicons.dev/icons?i=py,r,java,sklearn,postgresql,mysql,latex,html,js&theme=light)](https://skillicons.dev)
